@@ -1,0 +1,12 @@
+Using varous BIOS you can browse a DVDR to load files from it. This method is not how you burn a Backup/Copied 'Homebrew' Game Image.
+
+Using NERO Burning ROM select “NEW” and pick DVD-ROM. Make sure under MULTISESSION it is set to “No Multisession” and then under ISO it’s set to “ISO 9660 only” with “Max. of 11 = 8 + 3 chars” and “ISO 9660 (standard ISO CD-ROM)”
+
+NOTE: If you are using the Qoob BIOS you can choose "ISO 9600 + Joliet" as it can read long filenames!
+
+
+Also make sure there are no relaxed restrictions.
+
+If you are burning only a small amount of files, make sure you put at least 100 megabytes of garbage files on there with them.
+
+Always remember to “finalize the session” when burning
